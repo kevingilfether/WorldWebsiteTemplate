@@ -1,7 +1,18 @@
 ﻿body {
 }
 
-.big-header {
+.world {
     font-style:italic;
     font-weight:bolder;
+    margin-bottom:2px;
+    text-align:right;
+}
+
+.weekly {
+    margin-top:0px;
+    text-align:right;
+}
+
+.latest {
+    text-align:right;
 }
