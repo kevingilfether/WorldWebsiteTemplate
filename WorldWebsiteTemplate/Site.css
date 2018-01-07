@@ -2,17 +2,26 @@
 }
 
 .world {
-    font-style:italic;
-    font-weight:bolder;
-    margin-bottom:2px;
-    text-align:right;
+    font-style: italic;
+    font-weight: bolder;
+    margin-bottom: 2px;
+    text-align: right;
 }
 
 .weekly {
-    margin-top:0px;
-    text-align:right;
+    margin-top: 0px;
+    text-align: right;
 }
 
 .latest {
-    text-align:right;
+    text-align: right;
+}
+
+.logo {
+    width: 50%;
+    float:left;
+}
+
+.ad-text {
+    text-align:center;
 }
